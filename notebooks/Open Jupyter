@@ -1,0 +1,19 @@
+Copy/ Paste below path to terminal
+
+cd C:\Users\Admin\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\Scripts
+
+.\jupyter-notebook.exe
+
+copy/paste localhost:8888 ... url into browser
+
+nav to 'notebooks' folder
+
+when notebook is complete, copy/ paste into repo
+
+
+----------------------------------------------------------------
+Others:
+
+.\jupyter-lab.exe
+
+.\jupyter-console.exe
